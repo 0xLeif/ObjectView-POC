@@ -1,5 +1,5 @@
-# ObjectView-POC
-POC of using SUIObject to manage a View
+# [ObjectView](https://github.com/0xLeif/SUIObject/releases/tag/0.4.0)-POC
+POC of using [SUIObject](https://github.com/0xLeif/SUIObject) to manage a View
 
 ## Example Code
 ```swift
