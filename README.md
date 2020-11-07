@@ -27,4 +27,4 @@ struct ContentView: View {
 ```
 
 ## Demo Video
-![POC Video](.media/demo.mp4)
+![POC Video](.media/demo.gif)
